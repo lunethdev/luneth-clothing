@@ -25,6 +25,9 @@
       <option value="Prettier-JS" />
       <option value="Prettier-JSX" />
       <option value="Prettier-HTML" />
+      <option value="Prettier-SCSS" />
+      <option value="Prettier-Sass" />
+      <option value="Prettier-CSS" />
     </enabled-global>
   </component>
 </project>
